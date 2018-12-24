@@ -1,0 +1,21 @@
+body {
+  background-image: url("upside_down.jpg") ;
+  background-repeat: repeat ;
+}
+.centered {
+  position: absolute ;
+  margin: 0 auto ;
+  left: 50% ;
+  top: 50% ;
+}
+ul {
+  list-style-type: none ;
+  margin: 0 ;
+  padding: 0 ;
+  font-family: "Trebuchet MS", Helvetica, sans-serif ;
+  font-size: 30pt ;
+  text-align: center ;
+  color: #FFFFFF ;
+  left: 50% ;
+  top: 25% ;
+}
